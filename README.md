@@ -3,9 +3,7 @@
 Introduction to AZ-900 and Certifiedumps
 Achieving the Microsoft AZ-900 certification is a significant milestone for professionals looking to validate their foundational knowledge of cloud services. In 2024, securing this certification has become more streamlined with the support of Certifiedumps, a trusted provider of[** AZ-900 exam dumps**](https://www.certifiedumps.com/microsoft/az-900-dumps.html), AZ-900 dumps, and AZ-900 practice questions. Certifiedumps offers a 100% passing assurance, complemented by a money-back guarantee, 90 days of free updates, and free demo questions. 😊
 
-![White and Blue Modern Real Estate Corporate Flyer](https://github.com/user-attachments/assets/6532020f-da2e-4411-88fb-1a165dce9f86)
-
-
+![bannerArtboard 1 copy 5_2](https://github.com/user-attachments/assets/b5080ba7-c73c-45f9-8489-26f0f2287a83)
 
 # Understanding the Microsoft AZ-900 Exam
 The Microsoft AZ-900 exam, also known as the Microsoft Azure Fundamentals certification, evaluates candidates on various aspects of cloud computing and Microsoft Azure services. It is designed for individuals with non-technical backgrounds who want to validate their understanding of cloud concepts. 📝
